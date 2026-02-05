@@ -2,7 +2,7 @@
 
 ### A passionate developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edwardlo12" alt="edwardlo12" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophy.ryglcloud.net/?username=edwardlo12" alt="edwardlo12" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
