@@ -4,7 +4,7 @@
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://trophy.ryglcloud.net/?username=edwardlo12)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](./profile/trophy.svg)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🔗 Connect with me
 
