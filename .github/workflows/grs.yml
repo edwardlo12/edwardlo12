@@ -31,7 +31,7 @@ jobs:
         uses: Erik-Donath/github-profile-trophy@feature/generate-svg
         with:
           username: ${{ github.repository_owner }}
-          output_path: profile/trophy.svg
+          file: profile/trophy.svg
           token: ${{ secrets.PAT_TOKEN }}
 
       - name: Commit cards
